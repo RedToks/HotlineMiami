@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: bea4f03f8314b1a43810ba56e4b04389
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 212
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3297a1e97b50f114991010956bc60777
+      internalID: 1041066403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 213
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764eff465a64f104e92c58272fa47e1d
+      internalID: -239266614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 213
+        width: 251
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7b3ce834da3414c9ec38538b5bbac7
+      internalID: 1743734168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 76
+        width: 88
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590dcb31367f37d4888d19b367af667a
+      internalID: 874828844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 77
+        width: 111
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137fbb79cfe8dfc47b0e9dece2bdcf17
+      internalID: 1663026652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 131
+        width: 133
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564d351a76a5f264499455140ce5f572
+      internalID: -557304814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 67
+        width: 176
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6862cfbf47103c04daab99482ac06737
+      internalID: -196707471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 76
+        width: 193
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd056567e864601418d9677c5fa1c297
+      internalID: -2069718089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 132
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b03b0c0688bcd498a0b8279ca17206
+      internalID: 197422981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_0: 1041066403
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_1: -239266614
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_10: 465598571
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_11: -1334538243
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_12: 497237785
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_13: -1424211628
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_14: 874828844
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_15: -314165671
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_16: -2124540819
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_17: 4178904
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_18: -341686246
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_19: 655580533
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_2: 1743734168
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_20: -586750157
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_21: 1663026652
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_22: -557304814
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_23: -196707471
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_24: -2069718089
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_25: 924090354
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_26: -1444765612
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_27: 1497387976
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_28: 1814054060
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_29: 337660456
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_3: 1101582891
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_30: 197871147
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_31: -553483794
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_32: -904490707
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_33: -1498133042
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_34: 197422981
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_4: -161243877
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_5: -910143909
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_6: 1472211072
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_7: -254193711
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_8: -439731858
+      stock-vector-pixel-disintegration-background-decay-effect-dispersed-dotted-pattern-concept-of-disintegration-2103627332-removebg-preview_9: 1501054787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

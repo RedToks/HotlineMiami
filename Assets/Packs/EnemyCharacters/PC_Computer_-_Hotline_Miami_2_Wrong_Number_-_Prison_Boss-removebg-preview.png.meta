@@ -1,0 +1,1671 @@
+fileFormatVersion: 2
+guid: ce19c36fb404bca49adc4c00a2dd1966
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 330
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9ad7c5c93418b40ada6b2882e34244
+      internalID: -709444198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 331
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039698b6cc01a93408ffee52c08b067d
+      internalID: -872812656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 331
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6581a6615db657c458e4d45c83880ea9
+      internalID: -557529414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 307
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02026355390c6304cabade1c64cc9b5d
+      internalID: 1147941049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 308
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea1d783b351e71409ee84d72ec67795
+      internalID: 1269085874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 308
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4002a3c4ed80b274cb3e1672fe1d29dc
+      internalID: -511080151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 298
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b9bc26aaacdcd499b58912b75817e1
+      internalID: -1038041155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 297
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d52cbc98aead74497c34df57800168
+      internalID: 78926527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 298
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702bd08e2b487384a841de73695c3c55
+      internalID: -1388149563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 298
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b3f652b67efc745a9bddc4eb31be4a
+      internalID: 1219418376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 298
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25769cb042b5ace4aafaab81fe6ef161
+      internalID: 1579356803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bc0b74d897ef04893fbadc1dd99be6
+      internalID: 148845295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 270
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebea07967966e04cad8aa4eaa1b220a
+      internalID: -1970300810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 271
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aacf5148eb797468e19763a796429b
+      internalID: -853397587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 271
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2447c921d4b20d347a37e59446c4eb50
+      internalID: -1960421896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8156794abc7a14bb87b78342195006
+      internalID: -1926341280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 263
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac09643b87554d745a991a7816b6559d
+      internalID: -1207133814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 264
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095a03292921a5e4b87d09105b737c9d
+      internalID: -648200920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 263
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad399d33965778641a64a40429679459
+      internalID: -639878124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 264
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0ec54910c6a6d49a92dfd1bf97fb3a
+      internalID: -2015724689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d255b80281fcd474fb8ca6bcae8e494a
+      internalID: -833658672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 233
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7ea6926f8d02f4485eb161d5ed3d0a
+      internalID: -1737248254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 234
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863677bd649597e41a749e00c803d5ca
+      internalID: -243825625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 234
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd512fdb3ace2ea41ada4ff4244ac3c4
+      internalID: -2026901493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 230
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32e9ff315e02e349b7c9875b0fdb9cf
+      internalID: 1229886337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 230
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033a11086afab17498de1088d296fb7d
+      internalID: -1767662650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 231
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b6782a410f60b4294c05c26cded992
+      internalID: 503158297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 232
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74476dc0e9d4c0d42a70a955b9a6a324
+      internalID: 1897424028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 231
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0611272a76f44fa4dbf74200c736e21d
+      internalID: 2104143826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 197
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff831444c18c7b04b92a90f5d3c78c16
+      internalID: 690404965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 197
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74da220e236c1534f851ab4889e0e193
+      internalID: 1218245578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 197
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa5a600e5d25e84ea2660a615e354fc
+      internalID: -644113629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 197
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b48e64bc9fca41a731ec1eacaf048
+      internalID: -692604925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 197
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6df8a3a595200449f5388c12466eba
+      internalID: -1196117730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 195
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaa811750977d7459ed2b45ed743b79
+      internalID: 772687112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 194
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f8ac2f96715e74eb35ae1ebcf2df23
+      internalID: -1845384142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda4287ff5637d0409196d4ab4d05a33
+      internalID: -2127997030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 160
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5cd500544ce8e4890a675aa6be68d0
+      internalID: 12013030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5378611bf76cdcf49947e3f4b5dc308f
+      internalID: 1810361976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 160
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c930ae31ade300e4e92afa21f7a81b40
+      internalID: -668912929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 160
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fea24007c9477840a4aa3409e30455e
+      internalID: 1690593019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 160
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3dbd41993dabe479d92fbe4f94f313
+      internalID: -776403921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 160
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fb28bee466cd04cb3e2e72e9611f4f
+      internalID: -1150370380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 160
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b42ddd79c5bee54194dbc9b832d216e
+      internalID: 739649508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 122
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31972646894de0e4ab3405ea2c82e4a2
+      internalID: 375354631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 123
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53573f0155341a441a11cc9cbe59f170
+      internalID: -73199782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 122
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231fa064a3cdf2d40870dc853516af6f
+      internalID: -2123996189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 122
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbea2b3f796738a4b947444c58c24150
+      internalID: 650700236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 122
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea6fa470af2e16419374f5d7fbb69c5
+      internalID: 2074599363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 122
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d560d47255ad0334bb3bb1432d79e55a
+      internalID: -1891636407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 122
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19735d729904a2045b7ae6f2486bd37f
+      internalID: -1132189495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 123
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f121c3249736f429bbb97cde4b7fe4
+      internalID: 2094491738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 71
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c17fd60e50c7a24589bf2fbe1a0010b
+      internalID: -802690732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 70
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16398ba18b28a3f4fa70610304ef6543
+      internalID: -19827290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 72
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b93a82fd6217a41892729a0ee252b2
+      internalID: -1903396443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 72
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ca69bdab86d6d40b24628820f5adae
+      internalID: -1805308732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 72
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bbdfe0681858642ad8a7dc071cf83c
+      internalID: -627494706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 72
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7432848c7f5354498a098f3384820f
+      internalID: -186399482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 72
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a7b7a04045bc649a043e50ba62e8c5
+      internalID: -878266920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 72
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2fd598d8521d04a98cf59a7ffbef6d
+      internalID: 1412048768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2217c91d31dc55a4b9d8883ba9bc0eae
+      internalID: -1929763668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 9
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2d3e7e0bde33f46b79a3c3bfd9d313
+      internalID: 956922428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bfa3244cb7fd249916cb0dc7140143
+      internalID: 459815406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e356584595613647827b6ef74c3caa8
+      internalID: -1028728228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a553cb5f4dc2af44bba02b205e7501b
+      internalID: 972463786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76e096f53c870149bd0aeb55a32846d
+      internalID: -197779255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82679e3c755e70b48a92e76f5af4e220
+      internalID: 452840858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf303904607f6f4fab17704f0a1de6c
+      internalID: 408943899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f01751ed35edde4c8ec5c44a8efb114
+      internalID: 1383392278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_0: -709444198
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_1: -872812656
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_10: 1579356803
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_11: 148845295
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_12: -1970300810
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_13: -853397587
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_14: -1960421896
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_15: -1926341280
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_16: -1207133814
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_17: -648200920
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_18: -639878124
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_19: -2015724689
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_2: -557529414
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_20: -833658672
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_21: -1737248254
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_22: -243825625
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_23: -2026901493
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_24: 1229886337
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_25: -1767662650
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_26: 503158297
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_27: 1897424028
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_28: 2104143826
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_29: 690404965
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_3: 1147941049
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_30: 1218245578
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_31: -644113629
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_32: -692604925
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_33: -1196117730
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_34: 772687112
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_35: -1845384142
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_36: -2127997030
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_37: 12013030
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_38: 1810361976
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_39: -668912929
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_4: 1269085874
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_40: 1690593019
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_41: -776403921
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_42: -1150370380
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_43: 739649508
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_44: 375354631
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_45: -73199782
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_46: -2123996189
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_47: 650700236
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_48: 2074599363
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_49: -1891636407
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_5: -511080151
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_50: -1132189495
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_51: 2094491738
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_52: -802690732
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_53: -19827290
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_54: -1903396443
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_55: -1805308732
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_56: -627494706
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_57: -186399482
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_58: -878266920
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_59: 1412048768
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_6: -1038041155
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_60: -1929763668
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_61: 956922428
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_62: 459815406
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_63: -1028728228
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_64: 972463786
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_65: -197779255
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_66: 452840858
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_67: 408943899
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_68: 1383392278
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_7: 78926527
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_8: -1388149563
+      PC_Computer_-_Hotline_Miami_2_Wrong_Number_-_Prison_Boss-removebg-preview_9: 1219418376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
